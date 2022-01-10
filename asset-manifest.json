@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/moobarrac/react-stripe.git/static/css/main.a6aaa551.chunk.css",
-    "main.js": "/moobarrac/react-stripe.git/static/js/main.79dfa240.chunk.js",
-    "main.js.map": "/moobarrac/react-stripe.git/static/js/main.79dfa240.chunk.js.map",
-    "runtime-main.js": "/moobarrac/react-stripe.git/static/js/runtime-main.d9e97232.js",
-    "runtime-main.js.map": "/moobarrac/react-stripe.git/static/js/runtime-main.d9e97232.js.map",
-    "static/js/2.3f59e72b.chunk.js": "/moobarrac/react-stripe.git/static/js/2.3f59e72b.chunk.js",
-    "static/js/2.3f59e72b.chunk.js.map": "/moobarrac/react-stripe.git/static/js/2.3f59e72b.chunk.js.map",
-    "index.html": "/moobarrac/react-stripe.git/index.html",
-    "static/css/main.a6aaa551.chunk.css.map": "/moobarrac/react-stripe.git/static/css/main.a6aaa551.chunk.css.map",
-    "static/js/2.3f59e72b.chunk.js.LICENSE.txt": "/moobarrac/react-stripe.git/static/js/2.3f59e72b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/moobarrac/react-stripe.git/static/media/hero.1382a501.svg",
-    "static/media/logo.4658afbd.svg": "/moobarrac/react-stripe.git/static/media/logo.4658afbd.svg",
-    "static/media/phone.ae907e63.svg": "/moobarrac/react-stripe.git/static/media/phone.ae907e63.svg"
+    "main.css": "/react-stripe/static/css/main.bfe0c070.chunk.css",
+    "main.js": "/react-stripe/static/js/main.8cdd2901.chunk.js",
+    "main.js.map": "/react-stripe/static/js/main.8cdd2901.chunk.js.map",
+    "runtime-main.js": "/react-stripe/static/js/runtime-main.4b09716b.js",
+    "runtime-main.js.map": "/react-stripe/static/js/runtime-main.4b09716b.js.map",
+    "static/js/2.3f59e72b.chunk.js": "/react-stripe/static/js/2.3f59e72b.chunk.js",
+    "static/js/2.3f59e72b.chunk.js.map": "/react-stripe/static/js/2.3f59e72b.chunk.js.map",
+    "index.html": "/react-stripe/index.html",
+    "static/css/main.bfe0c070.chunk.css.map": "/react-stripe/static/css/main.bfe0c070.chunk.css.map",
+    "static/js/2.3f59e72b.chunk.js.LICENSE.txt": "/react-stripe/static/js/2.3f59e72b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-stripe/static/media/hero.1382a501.svg",
+    "static/media/logo.4658afbd.svg": "/react-stripe/static/media/logo.4658afbd.svg",
+    "static/media/phone.ae907e63.svg": "/react-stripe/static/media/phone.ae907e63.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9e97232.js",
+    "static/js/runtime-main.4b09716b.js",
     "static/js/2.3f59e72b.chunk.js",
-    "static/css/main.a6aaa551.chunk.css",
-    "static/js/main.79dfa240.chunk.js"
+    "static/css/main.bfe0c070.chunk.css",
+    "static/js/main.8cdd2901.chunk.js"
   ]
 }
